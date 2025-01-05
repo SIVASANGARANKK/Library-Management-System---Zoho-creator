@@ -50,7 +50,8 @@ role-based permissions:
 	Assistants can only view books and members but cannot make changes.
 
 
-![Screenshot (85)](https://github.com/user-attachments/assets/9c73f2d4-5719-4910-9b64-1a636a01c589)
+
+![Screenshot (85)](https://github.com/user-attachments/assets/818973ac-6eb6-41b1-b34c-600ca7466353)
 
 
 # Refer this video :
