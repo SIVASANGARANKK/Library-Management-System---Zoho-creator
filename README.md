@@ -49,7 +49,8 @@ role-based permissions:
 	Librarians can issue and return books.
 	Assistants can only view books and members but cannot make changes.
 
-![Screenshot (85)](https://github.com/user-attachments/assets/489342ab-ff26-4115-bbc3-7dc9ebdb2116)
+
+![Screenshot (85)](https://github.com/user-attachments/assets/9c73f2d4-5719-4910-9b64-1a636a01c589)
 
 
 # Refer this video :
