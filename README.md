@@ -1,6 +1,6 @@
 # Library-Management-System---Zoho-creator
 
-1.	Books Module
+1.	Books Module :
   Create a form with the following fields: 
       Book ID (Auto-generated)
       Title (Text - Mandatory)
@@ -13,7 +13,7 @@
 
 
 
-2.  Members Module
+2.  Members Module  :
    Create a form with the following fields: 
       Member ID (Auto-generated)
       Name (Text - Mandatory)
@@ -25,7 +25,7 @@
 
 
 
-3.	Transactions Module
+3.	Transactions Module  :
 	Create a form with the following fields: 
       Transaction ID (Auto-generated)
       Member (Lookup to Members)
@@ -36,7 +36,7 @@
       Fine Amount (Currency - Auto-calculated for overdue books)
 
    
-4.	Staff Members Module
+4.	Staff Members Module  :
   Create a form with the following fields: 
       Staff ID (Auto-generated)
       Name (Text - Mandatory)
